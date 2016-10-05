@@ -1,0 +1,6 @@
+c:\users\administrator\documents\visual studio 2013\Projects\Strategy\Strategy\bin\Debug\Strategy.exe.config
+c:\users\administrator\documents\visual studio 2013\Projects\Strategy\Strategy\obj\Debug\Strategy.csprojResolveAssemblyReference.cache
+c:\users\administrator\documents\visual studio 2013\Projects\Strategy\Strategy\bin\Debug\Strategy.exe
+c:\users\administrator\documents\visual studio 2013\Projects\Strategy\Strategy\bin\Debug\Strategy.pdb
+c:\users\administrator\documents\visual studio 2013\Projects\Strategy\Strategy\obj\Debug\Strategy.exe
+c:\users\administrator\documents\visual studio 2013\Projects\Strategy\Strategy\obj\Debug\Strategy.pdb
