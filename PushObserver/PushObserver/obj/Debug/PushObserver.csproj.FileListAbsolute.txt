@@ -1,0 +1,6 @@
+D:\Programme\GitHub\DesignPatterns\PushObserver\PushObserver\bin\Debug\PushObserver.exe.config
+D:\Programme\GitHub\DesignPatterns\PushObserver\PushObserver\bin\Debug\PushObserver.exe
+D:\Programme\GitHub\DesignPatterns\PushObserver\PushObserver\bin\Debug\PushObserver.pdb
+D:\Programme\GitHub\DesignPatterns\PushObserver\PushObserver\obj\Debug\PushObserver.csprojResolveAssemblyReference.cache
+D:\Programme\GitHub\DesignPatterns\PushObserver\PushObserver\obj\Debug\PushObserver.exe
+D:\Programme\GitHub\DesignPatterns\PushObserver\PushObserver\obj\Debug\PushObserver.pdb

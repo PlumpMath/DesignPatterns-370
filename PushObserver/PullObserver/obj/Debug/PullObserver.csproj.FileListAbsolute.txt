@@ -1,0 +1,6 @@
+D:\Programme\GitHub\DesignPatterns\PushObserver\PullObserver\bin\Debug\PullObserver.exe.config
+D:\Programme\GitHub\DesignPatterns\PushObserver\PullObserver\bin\Debug\PullObserver.exe
+D:\Programme\GitHub\DesignPatterns\PushObserver\PullObserver\bin\Debug\PullObserver.pdb
+D:\Programme\GitHub\DesignPatterns\PushObserver\PullObserver\obj\Debug\PullObserver.exe
+D:\Programme\GitHub\DesignPatterns\PushObserver\PullObserver\obj\Debug\PullObserver.pdb
+D:\Programme\GitHub\DesignPatterns\PushObserver\PullObserver\obj\Debug\PullObserver.csprojResolveAssemblyReference.cache
