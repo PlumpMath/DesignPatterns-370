@@ -11,7 +11,15 @@ namespace Strategy
         protected FlyBehavior flyBehavior;
         protected QuackBehavior quackBehavior;
 
+        protected abstract FlyBehavior GetFlyBehavior();
+        protected abstract QuackBehavior GetQuackBehavior();
         public abstract void Display();
+
+        public Duck()
+        {
+            this.flyBehavior = GetFlyBehavior();
+            this.quackBehavior = GetQuackBehavior();
+        }
         public void PerformQuack()
         {
             quackBehavior.Quacking();

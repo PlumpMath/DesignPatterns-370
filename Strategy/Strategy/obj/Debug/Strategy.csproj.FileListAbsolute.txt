@@ -4,3 +4,9 @@ c:\users\administrator\documents\visual studio 2013\Projects\Strategy\Strategy\b
 c:\users\administrator\documents\visual studio 2013\Projects\Strategy\Strategy\bin\Debug\Strategy.pdb
 c:\users\administrator\documents\visual studio 2013\Projects\Strategy\Strategy\obj\Debug\Strategy.exe
 c:\users\administrator\documents\visual studio 2013\Projects\Strategy\Strategy\obj\Debug\Strategy.pdb
+D:\Programme\GitHub\DesignPatterns\Strategy\Strategy\bin\Debug\Strategy.exe.config
+D:\Programme\GitHub\DesignPatterns\Strategy\Strategy\obj\Debug\Strategy.exe
+D:\Programme\GitHub\DesignPatterns\Strategy\Strategy\obj\Debug\Strategy.pdb
+D:\Programme\GitHub\DesignPatterns\Strategy\Strategy\bin\Debug\Strategy.exe
+D:\Programme\GitHub\DesignPatterns\Strategy\Strategy\bin\Debug\Strategy.pdb
+D:\Programme\GitHub\DesignPatterns\Strategy\Strategy\obj\Debug\Strategy.csprojResolveAssemblyReference.cache

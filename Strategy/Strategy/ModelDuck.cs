@@ -8,10 +8,14 @@ namespace Strategy
 {
     class ModelDuck : Duck
     {
-        public ModelDuck()
+        protected override FlyBehavior GetFlyBehavior()
         {
-            flyBehavior = new FlyNoWay();
-            quackBehavior = new Quack();
+            return new FlyNoWay();
+        }
+
+        protected override QuackBehavior GetQuackBehavior()
+        {
+            return new Quack();
         }
 
         public override void Display()

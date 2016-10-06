@@ -8,12 +8,15 @@ namespace Strategy
 {
     class MallardDuck : Duck
     {
-        public MallardDuck()
+        protected override FlyBehavior GetFlyBehavior()
         {
-            quackBehavior = new Quack();
-            flyBehavior = new FlyWithWings();
+            return new FlyWithWings();
         }
 
+        protected override QuackBehavior GetQuackBehavior()
+        {
+            return new Quack();
+        }
         public override void Display()
         {
             Console.WriteLine("I'm a real Mallard duck");
