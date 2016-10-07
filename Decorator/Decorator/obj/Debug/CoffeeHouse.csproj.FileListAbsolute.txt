@@ -1,0 +1,6 @@
+D:\Programme\GitHub\DesignPatterns\Decorator\Decorator\bin\Debug\Decorator.exe.config
+D:\Programme\GitHub\DesignPatterns\Decorator\Decorator\bin\Debug\Decorator.exe
+D:\Programme\GitHub\DesignPatterns\Decorator\Decorator\bin\Debug\Decorator.pdb
+D:\Programme\GitHub\DesignPatterns\Decorator\Decorator\obj\Debug\CoffeeHouse.csprojResolveAssemblyReference.cache
+D:\Programme\GitHub\DesignPatterns\Decorator\Decorator\obj\Debug\Decorator.exe
+D:\Programme\GitHub\DesignPatterns\Decorator\Decorator\obj\Debug\Decorator.pdb

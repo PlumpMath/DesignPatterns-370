@@ -1,0 +1,5 @@
+D:\Programme\GitHub\DesignPatterns\Decorator\Avatar\bin\Debug\Avatar.exe.config
+D:\Programme\GitHub\DesignPatterns\Decorator\Avatar\bin\Debug\Avatar.exe
+D:\Programme\GitHub\DesignPatterns\Decorator\Avatar\bin\Debug\Avatar.pdb
+D:\Programme\GitHub\DesignPatterns\Decorator\Avatar\obj\Debug\Avatar.exe
+D:\Programme\GitHub\DesignPatterns\Decorator\Avatar\obj\Debug\Avatar.pdb
