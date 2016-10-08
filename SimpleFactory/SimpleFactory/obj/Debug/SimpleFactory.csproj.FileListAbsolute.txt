@@ -1,0 +1,1 @@
+D:\Programme\GitHub\DesignPatterns\SimpleFactory\SimpleFactory\bin\Debug\SimpleFactory.exe.config

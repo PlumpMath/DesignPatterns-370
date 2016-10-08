@@ -1,0 +1,1 @@
+D:\Programme\GitHub\DesignPatterns\SimpleFactory\StrategyAndFactory\bin\Debug\StrategyAndFactory.exe.config

@@ -1,0 +1,5 @@
+D:\Programme\GitHub\DesignPatterns\SimpleFactory\Calculator\bin\Debug\Calculator.exe.config
+D:\Programme\GitHub\DesignPatterns\SimpleFactory\Calculator\bin\Debug\Calculator.exe
+D:\Programme\GitHub\DesignPatterns\SimpleFactory\Calculator\bin\Debug\Calculator.pdb
+D:\Programme\GitHub\DesignPatterns\SimpleFactory\Calculator\obj\Debug\Calculator.exe
+D:\Programme\GitHub\DesignPatterns\SimpleFactory\Calculator\obj\Debug\Calculator.pdb

@@ -1,0 +1,6 @@
+D:\Programme\GitHub\DesignPatterns\SimpleFactory\SupermarketFactory\bin\Debug\SupermarketFactory.exe.config
+D:\Programme\GitHub\DesignPatterns\SimpleFactory\SupermarketFactory\bin\Debug\SupermarketFactory.exe
+D:\Programme\GitHub\DesignPatterns\SimpleFactory\SupermarketFactory\bin\Debug\SupermarketFactory.pdb
+D:\Programme\GitHub\DesignPatterns\SimpleFactory\SupermarketFactory\obj\Debug\SupermarketFactory.csprojResolveAssemblyReference.cache
+D:\Programme\GitHub\DesignPatterns\SimpleFactory\SupermarketFactory\obj\Debug\SupermarketFactory.exe
+D:\Programme\GitHub\DesignPatterns\SimpleFactory\SupermarketFactory\obj\Debug\SupermarketFactory.pdb

@@ -1,0 +1,5 @@
+D:\Programme\GitHub\DesignPatterns\SimpleFactory\CashStrategy\bin\Debug\CashStrategy.exe.config
+D:\Programme\GitHub\DesignPatterns\SimpleFactory\CashStrategy\bin\Debug\CashStrategy.exe
+D:\Programme\GitHub\DesignPatterns\SimpleFactory\CashStrategy\bin\Debug\CashStrategy.pdb
+D:\Programme\GitHub\DesignPatterns\SimpleFactory\CashStrategy\obj\Debug\CashStrategy.exe
+D:\Programme\GitHub\DesignPatterns\SimpleFactory\CashStrategy\obj\Debug\CashStrategy.pdb

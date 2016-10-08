@@ -1,0 +1,5 @@
+D:\Programme\GitHub\DesignPatterns\SimpleFactory\Operation\bin\Debug\Operation.exe.config
+D:\Programme\GitHub\DesignPatterns\SimpleFactory\Operation\bin\Debug\Operation.exe
+D:\Programme\GitHub\DesignPatterns\SimpleFactory\Operation\bin\Debug\Operation.pdb
+D:\Programme\GitHub\DesignPatterns\SimpleFactory\Operation\obj\Debug\Operation.exe
+D:\Programme\GitHub\DesignPatterns\SimpleFactory\Operation\obj\Debug\Operation.pdb
