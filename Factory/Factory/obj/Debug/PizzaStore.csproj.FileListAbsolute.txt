@@ -1,0 +1,6 @@
+D:\Programme\GitHub\DesignPatterns\Factory\Factory\bin\Debug\Factory.exe.config
+D:\Programme\GitHub\DesignPatterns\Factory\Factory\bin\Debug\Factory.exe
+D:\Programme\GitHub\DesignPatterns\Factory\Factory\bin\Debug\Factory.pdb
+D:\Programme\GitHub\DesignPatterns\Factory\Factory\obj\Debug\PizzaStore.csprojResolveAssemblyReference.cache
+D:\Programme\GitHub\DesignPatterns\Factory\Factory\obj\Debug\Factory.exe
+D:\Programme\GitHub\DesignPatterns\Factory\Factory\obj\Debug\Factory.pdb
