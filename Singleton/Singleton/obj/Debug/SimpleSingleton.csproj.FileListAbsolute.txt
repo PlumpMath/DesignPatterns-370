@@ -1,0 +1,6 @@
+D:\Programme\GitHub\DesignPatterns\Singleton\Singleton\bin\Debug\Singleton.exe.config
+D:\Programme\GitHub\DesignPatterns\Singleton\Singleton\bin\Debug\Singleton.exe
+D:\Programme\GitHub\DesignPatterns\Singleton\Singleton\bin\Debug\Singleton.pdb
+D:\Programme\GitHub\DesignPatterns\Singleton\Singleton\obj\Debug\SimpleSingleton.csprojResolveAssemblyReference.cache
+D:\Programme\GitHub\DesignPatterns\Singleton\Singleton\obj\Debug\Singleton.exe
+D:\Programme\GitHub\DesignPatterns\Singleton\Singleton\obj\Debug\Singleton.pdb
