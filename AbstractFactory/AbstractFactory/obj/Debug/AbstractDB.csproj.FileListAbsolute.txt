@@ -1,0 +1,6 @@
+D:\Programme\GitHub\DesignPatterns\AbstractFactory\AbstractFactory\bin\Debug\AbstractFactory.exe.config
+D:\Programme\GitHub\DesignPatterns\AbstractFactory\AbstractFactory\bin\Debug\AbstractFactory.exe
+D:\Programme\GitHub\DesignPatterns\AbstractFactory\AbstractFactory\bin\Debug\AbstractFactory.pdb
+D:\Programme\GitHub\DesignPatterns\AbstractFactory\AbstractFactory\obj\Debug\AbstractDB.csprojResolveAssemblyReference.cache
+D:\Programme\GitHub\DesignPatterns\AbstractFactory\AbstractFactory\obj\Debug\AbstractFactory.exe
+D:\Programme\GitHub\DesignPatterns\AbstractFactory\AbstractFactory\obj\Debug\AbstractFactory.pdb

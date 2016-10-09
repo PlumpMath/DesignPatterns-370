@@ -1,0 +1,6 @@
+D:\Programme\GitHub\DesignPatterns\AbstractFactory\SimpleFactoryDB\bin\Debug\SimpleFactoryDB.exe.config
+D:\Programme\GitHub\DesignPatterns\AbstractFactory\SimpleFactoryDB\bin\Debug\SimpleFactoryDB.exe
+D:\Programme\GitHub\DesignPatterns\AbstractFactory\SimpleFactoryDB\bin\Debug\SimpleFactoryDB.pdb
+D:\Programme\GitHub\DesignPatterns\AbstractFactory\SimpleFactoryDB\obj\Debug\SimpleFactoryDB.csprojResolveAssemblyReference.cache
+D:\Programme\GitHub\DesignPatterns\AbstractFactory\SimpleFactoryDB\obj\Debug\SimpleFactoryDB.exe
+D:\Programme\GitHub\DesignPatterns\AbstractFactory\SimpleFactoryDB\obj\Debug\SimpleFactoryDB.pdb

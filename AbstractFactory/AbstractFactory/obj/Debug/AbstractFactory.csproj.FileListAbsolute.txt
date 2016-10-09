@@ -1,0 +1,1 @@
+D:\Programme\GitHub\DesignPatterns\AbstractFactory\AbstractFactory\bin\Debug\AbstractFactory.exe.config
