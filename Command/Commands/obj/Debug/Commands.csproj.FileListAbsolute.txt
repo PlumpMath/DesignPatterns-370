@@ -1,0 +1,6 @@
+D:\Programme\GitHub\DesignPatterns\Command\Commands\bin\Debug\Commands.exe.config
+D:\Programme\GitHub\DesignPatterns\Command\Commands\bin\Debug\Commands.exe
+D:\Programme\GitHub\DesignPatterns\Command\Commands\bin\Debug\Commands.pdb
+D:\Programme\GitHub\DesignPatterns\Command\Commands\obj\Debug\Commands.csprojResolveAssemblyReference.cache
+D:\Programme\GitHub\DesignPatterns\Command\Commands\obj\Debug\Commands.exe
+D:\Programme\GitHub\DesignPatterns\Command\Commands\obj\Debug\Commands.pdb

@@ -1,0 +1,6 @@
+D:\Programme\GitHub\DesignPatterns\Command\ApplySimpleCommand\bin\Debug\ApplySimpleCommand.exe.config
+D:\Programme\GitHub\DesignPatterns\Command\ApplySimpleCommand\bin\Debug\ApplySimpleCommand.exe
+D:\Programme\GitHub\DesignPatterns\Command\ApplySimpleCommand\bin\Debug\ApplySimpleCommand.pdb
+D:\Programme\GitHub\DesignPatterns\Command\ApplySimpleCommand\obj\Debug\ApplySimpleCommand.csprojResolveAssemblyReference.cache
+D:\Programme\GitHub\DesignPatterns\Command\ApplySimpleCommand\obj\Debug\ApplySimpleCommand.exe
+D:\Programme\GitHub\DesignPatterns\Command\ApplySimpleCommand\obj\Debug\ApplySimpleCommand.pdb

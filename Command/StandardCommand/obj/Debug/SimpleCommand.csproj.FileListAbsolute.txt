@@ -1,0 +1,5 @@
+D:\Programme\GitHub\DesignPatterns\Command\StandardCommand\bin\Debug\StandardCommand.exe.config
+D:\Programme\GitHub\DesignPatterns\Command\StandardCommand\bin\Debug\StandardCommand.exe
+D:\Programme\GitHub\DesignPatterns\Command\StandardCommand\bin\Debug\StandardCommand.pdb
+D:\Programme\GitHub\DesignPatterns\Command\StandardCommand\obj\Debug\StandardCommand.exe
+D:\Programme\GitHub\DesignPatterns\Command\StandardCommand\obj\Debug\StandardCommand.pdb
