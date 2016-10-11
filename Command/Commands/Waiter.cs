@@ -30,5 +30,11 @@ namespace Commands
                 cmd.ExcuteCommand();
             }
         }
+
+        public void CancelOrder(Command command)
+        {
+            commands.Remove(command);
+            Console.WriteLine("取消订单：" + command + " 时间：" + DateTime.Now);
+        }
     }
 }

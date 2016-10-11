@@ -1,0 +1,6 @@
+D:\Programme\GitHub\DesignPatterns\Command\SimpleCancelRemote\bin\Debug\SimpleCancelRemote.exe.config
+D:\Programme\GitHub\DesignPatterns\Command\SimpleCancelRemote\obj\Debug\SimpleCancelRemote.csprojResolveAssemblyReference.cache
+D:\Programme\GitHub\DesignPatterns\Command\SimpleCancelRemote\bin\Debug\SimpleCancelRemote.exe
+D:\Programme\GitHub\DesignPatterns\Command\SimpleCancelRemote\bin\Debug\SimpleCancelRemote.pdb
+D:\Programme\GitHub\DesignPatterns\Command\SimpleCancelRemote\obj\Debug\SimpleCancelRemote.exe
+D:\Programme\GitHub\DesignPatterns\Command\SimpleCancelRemote\obj\Debug\SimpleCancelRemote.pdb

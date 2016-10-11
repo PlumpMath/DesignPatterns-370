@@ -1,0 +1,5 @@
+D:\Programme\GitHub\DesignPatterns\Command\RemoteControl\bin\Debug\RemoteControl.exe.config
+D:\Programme\GitHub\DesignPatterns\Command\RemoteControl\bin\Debug\RemoteControl.exe
+D:\Programme\GitHub\DesignPatterns\Command\RemoteControl\bin\Debug\RemoteControl.pdb
+D:\Programme\GitHub\DesignPatterns\Command\RemoteControl\obj\Debug\RemoteControl.exe
+D:\Programme\GitHub\DesignPatterns\Command\RemoteControl\obj\Debug\RemoteControl.pdb

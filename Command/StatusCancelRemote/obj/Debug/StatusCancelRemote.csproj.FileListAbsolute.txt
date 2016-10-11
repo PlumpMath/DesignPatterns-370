@@ -1,0 +1,6 @@
+D:\Programme\GitHub\DesignPatterns\Command\StatusCancelRemote\bin\Debug\StatusCancelRemote.exe.config
+D:\Programme\GitHub\DesignPatterns\Command\StatusCancelRemote\obj\Debug\StatusCancelRemote.csprojResolveAssemblyReference.cache
+D:\Programme\GitHub\DesignPatterns\Command\StatusCancelRemote\bin\Debug\StatusCancelRemote.exe
+D:\Programme\GitHub\DesignPatterns\Command\StatusCancelRemote\bin\Debug\StatusCancelRemote.pdb
+D:\Programme\GitHub\DesignPatterns\Command\StatusCancelRemote\obj\Debug\StatusCancelRemote.exe
+D:\Programme\GitHub\DesignPatterns\Command\StatusCancelRemote\obj\Debug\StatusCancelRemote.pdb

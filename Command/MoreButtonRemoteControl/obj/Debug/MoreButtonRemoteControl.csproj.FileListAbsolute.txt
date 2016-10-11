@@ -1,0 +1,6 @@
+D:\Programme\GitHub\DesignPatterns\Command\MoreButtonRemoteControl\bin\Debug\MoreButtonRemoteControl.exe.config
+D:\Programme\GitHub\DesignPatterns\Command\MoreButtonRemoteControl\bin\Debug\MoreButtonRemoteControl.exe
+D:\Programme\GitHub\DesignPatterns\Command\MoreButtonRemoteControl\bin\Debug\MoreButtonRemoteControl.pdb
+D:\Programme\GitHub\DesignPatterns\Command\MoreButtonRemoteControl\obj\Debug\MoreButtonRemoteControl.csprojResolveAssemblyReference.cache
+D:\Programme\GitHub\DesignPatterns\Command\MoreButtonRemoteControl\obj\Debug\MoreButtonRemoteControl.exe
+D:\Programme\GitHub\DesignPatterns\Command\MoreButtonRemoteControl\obj\Debug\MoreButtonRemoteControl.pdb

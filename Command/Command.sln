@@ -11,6 +11,16 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ApplySimpleCommand", "Apply
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Commands", "Commands\Commands.csproj", "{4A9B4CD0-8A20-4CAC-B5F3-DA3334DB8DCC}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SimpleRemoteControl", "RemoteControl\SimpleRemoteControl.csproj", "{4C3F552A-3BD2-4E94-AC06-23A3849E3895}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MoreButtonRemoteControl", "MoreButtonRemoteControl\MoreButtonRemoteControl.csproj", "{88F9AC78-B845-4D79-A0C1-EAB16C056142}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SimpleCancelRemote", "SimpleCancelRemote\SimpleCancelRemote.csproj", "{63A7AF2E-FF57-4EA7-8082-7C6EE5333749}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StatusCancelRemote", "StatusCancelRemote\StatusCancelRemote.csproj", "{1AE05B63-0DAA-4C70-AF8E-FFCFC5D5953F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OneIncludeManyCommands", "OneIncludeManyCommands\OneIncludeManyCommands.csproj", "{2E20ABBA-F0F2-4C61-A8AB-721C36EB2506}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +43,26 @@ Global
 		{4A9B4CD0-8A20-4CAC-B5F3-DA3334DB8DCC}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4A9B4CD0-8A20-4CAC-B5F3-DA3334DB8DCC}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4A9B4CD0-8A20-4CAC-B5F3-DA3334DB8DCC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4C3F552A-3BD2-4E94-AC06-23A3849E3895}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4C3F552A-3BD2-4E94-AC06-23A3849E3895}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4C3F552A-3BD2-4E94-AC06-23A3849E3895}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4C3F552A-3BD2-4E94-AC06-23A3849E3895}.Release|Any CPU.Build.0 = Release|Any CPU
+		{88F9AC78-B845-4D79-A0C1-EAB16C056142}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{88F9AC78-B845-4D79-A0C1-EAB16C056142}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{88F9AC78-B845-4D79-A0C1-EAB16C056142}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{88F9AC78-B845-4D79-A0C1-EAB16C056142}.Release|Any CPU.Build.0 = Release|Any CPU
+		{63A7AF2E-FF57-4EA7-8082-7C6EE5333749}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{63A7AF2E-FF57-4EA7-8082-7C6EE5333749}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{63A7AF2E-FF57-4EA7-8082-7C6EE5333749}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{63A7AF2E-FF57-4EA7-8082-7C6EE5333749}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1AE05B63-0DAA-4C70-AF8E-FFCFC5D5953F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1AE05B63-0DAA-4C70-AF8E-FFCFC5D5953F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1AE05B63-0DAA-4C70-AF8E-FFCFC5D5953F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1AE05B63-0DAA-4C70-AF8E-FFCFC5D5953F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2E20ABBA-F0F2-4C61-A8AB-721C36EB2506}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2E20ABBA-F0F2-4C61-A8AB-721C36EB2506}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2E20ABBA-F0F2-4C61-A8AB-721C36EB2506}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2E20ABBA-F0F2-4C61-A8AB-721C36EB2506}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

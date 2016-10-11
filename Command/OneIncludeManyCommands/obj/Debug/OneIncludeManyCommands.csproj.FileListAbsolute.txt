@@ -1,0 +1,6 @@
+D:\Programme\GitHub\DesignPatterns\Command\OneIncludeManyCommands\bin\Debug\OneIncludeManyCommands.exe.config
+D:\Programme\GitHub\DesignPatterns\Command\OneIncludeManyCommands\bin\Debug\OneIncludeManyCommands.exe
+D:\Programme\GitHub\DesignPatterns\Command\OneIncludeManyCommands\bin\Debug\OneIncludeManyCommands.pdb
+D:\Programme\GitHub\DesignPatterns\Command\OneIncludeManyCommands\obj\Debug\OneIncludeManyCommands.csprojResolveAssemblyReference.cache
+D:\Programme\GitHub\DesignPatterns\Command\OneIncludeManyCommands\obj\Debug\OneIncludeManyCommands.exe
+D:\Programme\GitHub\DesignPatterns\Command\OneIncludeManyCommands\obj\Debug\OneIncludeManyCommands.pdb
