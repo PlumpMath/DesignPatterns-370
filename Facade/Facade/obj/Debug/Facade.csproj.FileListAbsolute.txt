@@ -1,0 +1,6 @@
+D:\Programme\GitHub\DesignPatterns\Facade\Facade\bin\Debug\Facade.exe.config
+D:\Programme\GitHub\DesignPatterns\Facade\Facade\bin\Debug\Facade.exe
+D:\Programme\GitHub\DesignPatterns\Facade\Facade\bin\Debug\Facade.pdb
+D:\Programme\GitHub\DesignPatterns\Facade\Facade\obj\Debug\Facade.csprojResolveAssemblyReference.cache
+D:\Programme\GitHub\DesignPatterns\Facade\Facade\obj\Debug\Facade.exe
+D:\Programme\GitHub\DesignPatterns\Facade\Facade\obj\Debug\Facade.pdb
