@@ -1,0 +1,6 @@
+D:\Programme\GitHub\DesignPatterns\Adapter\Translator\bin\Debug\Translator.exe.config
+D:\Programme\GitHub\DesignPatterns\Adapter\Translator\bin\Debug\Translator.exe
+D:\Programme\GitHub\DesignPatterns\Adapter\Translator\bin\Debug\Translator.pdb
+D:\Programme\GitHub\DesignPatterns\Adapter\Translator\obj\Debug\Translator.csprojResolveAssemblyReference.cache
+D:\Programme\GitHub\DesignPatterns\Adapter\Translator\obj\Debug\Translator.exe
+D:\Programme\GitHub\DesignPatterns\Adapter\Translator\obj\Debug\Translator.pdb
