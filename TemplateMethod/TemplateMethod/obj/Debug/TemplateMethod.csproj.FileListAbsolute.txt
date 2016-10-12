@@ -1,0 +1,1 @@
+D:\Programme\GitHub\DesignPatterns\TemplateMethod\TemplateMethod\bin\Debug\TemplateMethod.exe.config

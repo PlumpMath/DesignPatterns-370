@@ -1,0 +1,6 @@
+D:\Programme\GitHub\DesignPatterns\TemplateMethod\DuckSort\bin\Debug\DuckSort.exe.config
+D:\Programme\GitHub\DesignPatterns\TemplateMethod\DuckSort\bin\Debug\DuckSort.exe
+D:\Programme\GitHub\DesignPatterns\TemplateMethod\DuckSort\bin\Debug\DuckSort.pdb
+D:\Programme\GitHub\DesignPatterns\TemplateMethod\DuckSort\obj\Debug\DuckSort.csprojResolveAssemblyReference.cache
+D:\Programme\GitHub\DesignPatterns\TemplateMethod\DuckSort\obj\Debug\DuckSort.exe
+D:\Programme\GitHub\DesignPatterns\TemplateMethod\DuckSort\obj\Debug\DuckSort.pdb

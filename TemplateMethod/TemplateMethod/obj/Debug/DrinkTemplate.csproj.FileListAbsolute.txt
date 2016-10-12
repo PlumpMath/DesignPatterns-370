@@ -1,0 +1,6 @@
+D:\Programme\GitHub\DesignPatterns\TemplateMethod\TemplateMethod\bin\Debug\TemplateMethod.exe.config
+D:\Programme\GitHub\DesignPatterns\TemplateMethod\TemplateMethod\bin\Debug\TemplateMethod.exe
+D:\Programme\GitHub\DesignPatterns\TemplateMethod\TemplateMethod\bin\Debug\TemplateMethod.pdb
+D:\Programme\GitHub\DesignPatterns\TemplateMethod\TemplateMethod\obj\Debug\DrinkTemplate.csprojResolveAssemblyReference.cache
+D:\Programme\GitHub\DesignPatterns\TemplateMethod\TemplateMethod\obj\Debug\TemplateMethod.exe
+D:\Programme\GitHub\DesignPatterns\TemplateMethod\TemplateMethod\obj\Debug\TemplateMethod.pdb

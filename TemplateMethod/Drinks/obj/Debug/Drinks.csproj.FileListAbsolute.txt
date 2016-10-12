@@ -1,0 +1,6 @@
+D:\Programme\GitHub\DesignPatterns\TemplateMethod\Drinks\bin\Debug\Drinks.exe.config
+D:\Programme\GitHub\DesignPatterns\TemplateMethod\Drinks\bin\Debug\Drinks.exe
+D:\Programme\GitHub\DesignPatterns\TemplateMethod\Drinks\bin\Debug\Drinks.pdb
+D:\Programme\GitHub\DesignPatterns\TemplateMethod\Drinks\obj\Debug\Drinks.csprojResolveAssemblyReference.cache
+D:\Programme\GitHub\DesignPatterns\TemplateMethod\Drinks\obj\Debug\Drinks.exe
+D:\Programme\GitHub\DesignPatterns\TemplateMethod\Drinks\obj\Debug\Drinks.pdb
