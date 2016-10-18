@@ -1,0 +1,5 @@
+D:\Programme\GitHub\DesignPatterns\State\StandardState\bin\Debug\StandardState.exe.config
+D:\Programme\GitHub\DesignPatterns\State\StandardState\bin\Debug\StandardState.exe
+D:\Programme\GitHub\DesignPatterns\State\StandardState\bin\Debug\StandardState.pdb
+D:\Programme\GitHub\DesignPatterns\State\StandardState\obj\Debug\StandardState.exe
+D:\Programme\GitHub\DesignPatterns\State\StandardState\obj\Debug\StandardState.pdb

@@ -1,0 +1,6 @@
+D:\Programme\GitHub\DesignPatterns\State\CandyNoState\bin\Debug\CandyNoState.exe.config
+D:\Programme\GitHub\DesignPatterns\State\CandyNoState\obj\Debug\CandyNoState.csprojResolveAssemblyReference.cache
+D:\Programme\GitHub\DesignPatterns\State\CandyNoState\bin\Debug\CandyNoState.exe
+D:\Programme\GitHub\DesignPatterns\State\CandyNoState\bin\Debug\CandyNoState.pdb
+D:\Programme\GitHub\DesignPatterns\State\CandyNoState\obj\Debug\CandyNoState.exe
+D:\Programme\GitHub\DesignPatterns\State\CandyNoState\obj\Debug\CandyNoState.pdb

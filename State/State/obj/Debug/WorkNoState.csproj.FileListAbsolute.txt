@@ -1,0 +1,6 @@
+D:\Programme\GitHub\DesignPatterns\State\State\bin\Debug\State.exe.config
+D:\Programme\GitHub\DesignPatterns\State\State\bin\Debug\State.exe
+D:\Programme\GitHub\DesignPatterns\State\State\bin\Debug\State.pdb
+D:\Programme\GitHub\DesignPatterns\State\State\obj\Debug\WorkNoState.csprojResolveAssemblyReference.cache
+D:\Programme\GitHub\DesignPatterns\State\State\obj\Debug\State.exe
+D:\Programme\GitHub\DesignPatterns\State\State\obj\Debug\State.pdb

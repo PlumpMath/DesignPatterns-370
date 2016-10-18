@@ -1,0 +1,1 @@
+D:\Programme\GitHub\DesignPatterns\State\State\bin\Debug\State.exe.config
