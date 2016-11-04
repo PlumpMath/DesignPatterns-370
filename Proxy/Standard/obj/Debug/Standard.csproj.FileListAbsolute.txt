@@ -1,0 +1,6 @@
+D:\Programme\GitHub\DesignPatterns\Proxy\Standard\bin\Debug\Standard.exe.config
+D:\Programme\GitHub\DesignPatterns\Proxy\Standard\bin\Debug\Standard.exe
+D:\Programme\GitHub\DesignPatterns\Proxy\Standard\bin\Debug\Standard.pdb
+D:\Programme\GitHub\DesignPatterns\Proxy\Standard\obj\Debug\Standard.csprojResolveAssemblyReference.cache
+D:\Programme\GitHub\DesignPatterns\Proxy\Standard\obj\Debug\Standard.exe
+D:\Programme\GitHub\DesignPatterns\Proxy\Standard\obj\Debug\Standard.pdb

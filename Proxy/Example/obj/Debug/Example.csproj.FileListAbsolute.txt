@@ -1,0 +1,6 @@
+D:\Programme\GitHub\DesignPatterns\Proxy\Example\bin\Debug\Example.exe.config
+D:\Programme\GitHub\DesignPatterns\Proxy\Example\bin\Debug\Example.exe
+D:\Programme\GitHub\DesignPatterns\Proxy\Example\bin\Debug\Example.pdb
+D:\Programme\GitHub\DesignPatterns\Proxy\Example\obj\Debug\Example.csprojResolveAssemblyReference.cache
+D:\Programme\GitHub\DesignPatterns\Proxy\Example\obj\Debug\Example.exe
+D:\Programme\GitHub\DesignPatterns\Proxy\Example\obj\Debug\Example.pdb
