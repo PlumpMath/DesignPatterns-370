@@ -1,0 +1,5 @@
+D:\Programme\GitHub\DesignPatterns\Iterator\Menu3\bin\Debug\Menu3.exe.config
+D:\Programme\GitHub\DesignPatterns\Iterator\Menu3\bin\Debug\Menu3.exe
+D:\Programme\GitHub\DesignPatterns\Iterator\Menu3\bin\Debug\Menu3.pdb
+D:\Programme\GitHub\DesignPatterns\Iterator\Menu3\obj\Debug\Menu3.exe
+D:\Programme\GitHub\DesignPatterns\Iterator\Menu3\obj\Debug\Menu3.pdb

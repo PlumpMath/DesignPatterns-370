@@ -1,0 +1,6 @@
+D:\Programme\GitHub\DesignPatterns\Iterator\Menu2\bin\Debug\Menu2.exe.config
+D:\Programme\GitHub\DesignPatterns\Iterator\Menu2\bin\Debug\Menu2.exe
+D:\Programme\GitHub\DesignPatterns\Iterator\Menu2\bin\Debug\Menu2.pdb
+D:\Programme\GitHub\DesignPatterns\Iterator\Menu2\obj\Debug\Menu2.exe
+D:\Programme\GitHub\DesignPatterns\Iterator\Menu2\obj\Debug\Menu2.pdb
+D:\Programme\GitHub\DesignPatterns\Iterator\Menu2\obj\Debug\Menu2.csprojResolveAssemblyReference.cache

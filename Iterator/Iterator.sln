@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Menu1", "Menu1\Menu1.csproj", "{5EFD42CD-4032-4B46-ACB0-5BFBC2E3D5A8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Menu2", "Menu2\Menu2.csproj", "{B73F69BA-1DB7-4235-95A0-5007C1048996}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Menu3", "Menu3\Menu3.csproj", "{81A96B25-DF06-48C1-99A0-9941158CC031}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BuyTicket", "BuyTicket\BuyTicket.csproj", "{3C528840-672D-41D8-B1BD-354052E82608}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5EFD42CD-4032-4B46-ACB0-5BFBC2E3D5A8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5EFD42CD-4032-4B46-ACB0-5BFBC2E3D5A8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5EFD42CD-4032-4B46-ACB0-5BFBC2E3D5A8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5EFD42CD-4032-4B46-ACB0-5BFBC2E3D5A8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B73F69BA-1DB7-4235-95A0-5007C1048996}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B73F69BA-1DB7-4235-95A0-5007C1048996}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B73F69BA-1DB7-4235-95A0-5007C1048996}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B73F69BA-1DB7-4235-95A0-5007C1048996}.Release|Any CPU.Build.0 = Release|Any CPU
+		{81A96B25-DF06-48C1-99A0-9941158CC031}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{81A96B25-DF06-48C1-99A0-9941158CC031}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{81A96B25-DF06-48C1-99A0-9941158CC031}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{81A96B25-DF06-48C1-99A0-9941158CC031}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3C528840-672D-41D8-B1BD-354052E82608}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3C528840-672D-41D8-B1BD-354052E82608}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3C528840-672D-41D8-B1BD-354052E82608}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3C528840-672D-41D8-B1BD-354052E82608}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

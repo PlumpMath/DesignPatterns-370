@@ -1,0 +1,6 @@
+D:\Programme\GitHub\DesignPatterns\Iterator\BuyTicket\bin\Debug\BuyTicket.exe.config
+D:\Programme\GitHub\DesignPatterns\Iterator\BuyTicket\bin\Debug\BuyTicket.exe
+D:\Programme\GitHub\DesignPatterns\Iterator\BuyTicket\bin\Debug\BuyTicket.pdb
+D:\Programme\GitHub\DesignPatterns\Iterator\BuyTicket\obj\Debug\BuyTicket.csprojResolveAssemblyReference.cache
+D:\Programme\GitHub\DesignPatterns\Iterator\BuyTicket\obj\Debug\BuyTicket.exe
+D:\Programme\GitHub\DesignPatterns\Iterator\BuyTicket\obj\Debug\BuyTicket.pdb
