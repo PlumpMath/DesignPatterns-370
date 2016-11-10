@@ -1,0 +1,1 @@
+D:\Programme\GitHub\DesignPatterns\Composite\Company\bin\Debug\Company.exe.config

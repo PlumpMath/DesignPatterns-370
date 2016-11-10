@@ -1,0 +1,6 @@
+D:\Programme\GitHub\DesignPatterns\Composite\MenuComponent\bin\Debug\MenuComponent.exe.config
+D:\Programme\GitHub\DesignPatterns\Composite\MenuComponent\bin\Debug\MenuComponent.exe
+D:\Programme\GitHub\DesignPatterns\Composite\MenuComponent\bin\Debug\MenuComponent.pdb
+D:\Programme\GitHub\DesignPatterns\Composite\MenuComponent\obj\Debug\MenuComponent.csprojResolveAssemblyReference.cache
+D:\Programme\GitHub\DesignPatterns\Composite\MenuComponent\obj\Debug\MenuComponent.exe
+D:\Programme\GitHub\DesignPatterns\Composite\MenuComponent\obj\Debug\MenuComponent.pdb

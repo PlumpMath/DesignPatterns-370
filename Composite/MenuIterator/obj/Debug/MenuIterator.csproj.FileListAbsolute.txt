@@ -1,0 +1,6 @@
+D:\Programme\GitHub\DesignPatterns\Composite\MenuIterator\bin\Debug\MenuIterator.exe.config
+D:\Programme\GitHub\DesignPatterns\Composite\MenuIterator\bin\Debug\MenuIterator.exe
+D:\Programme\GitHub\DesignPatterns\Composite\MenuIterator\bin\Debug\MenuIterator.pdb
+D:\Programme\GitHub\DesignPatterns\Composite\MenuIterator\obj\Debug\MenuIterator.csprojResolveAssemblyReference.cache
+D:\Programme\GitHub\DesignPatterns\Composite\MenuIterator\obj\Debug\MenuIterator.exe
+D:\Programme\GitHub\DesignPatterns\Composite\MenuIterator\obj\Debug\MenuIterator.pdb

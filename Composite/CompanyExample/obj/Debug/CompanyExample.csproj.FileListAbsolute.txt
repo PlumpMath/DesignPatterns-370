@@ -1,0 +1,6 @@
+D:\Programme\GitHub\DesignPatterns\Composite\CompanyExample\bin\Debug\CompanyExample.exe.config
+D:\Programme\GitHub\DesignPatterns\Composite\CompanyExample\bin\Debug\CompanyExample.exe
+D:\Programme\GitHub\DesignPatterns\Composite\CompanyExample\bin\Debug\CompanyExample.pdb
+D:\Programme\GitHub\DesignPatterns\Composite\CompanyExample\obj\Debug\CompanyExample.csprojResolveAssemblyReference.cache
+D:\Programme\GitHub\DesignPatterns\Composite\CompanyExample\obj\Debug\CompanyExample.exe
+D:\Programme\GitHub\DesignPatterns\Composite\CompanyExample\obj\Debug\CompanyExample.pdb

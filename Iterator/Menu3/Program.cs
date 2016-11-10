@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 
 namespace Menu3
 {
-    //此版本把所有集合添加到一个集合中解决了服务员代码重复的问题
+    //此版本使用组合模式添加甜品菜单
     class Program
     {
         static void Main(string[] args)
